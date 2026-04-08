@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/khiner/tree-sitter-faust",
-  "semver": false,
   "parser_version": "122dd101919289ea809bad643712fcb483a1bed0",
-  "lang": "faust"
+  "lang": "faust",
+  "url": "https://github.com/khiner/tree-sitter-faust",
+  "semver": false
 }
